@@ -2,8 +2,8 @@
 This project demonstrates data analysis using SQL.  
 It includes database design, data cleaning, and queries for extracting insights from structured datasets.
 ## Technologies Used
-- SQL (PostgreSQL / MySQL / MariaDB)
-- DBeaver / pgAdmin / MySQL Workbench
+- SQL (SQL Server)
+- SQL Server Management Studio
 - Git & GitHub
 ## Repository Structure
 - `AdvnetureWorks2022.bak` → Database schema with table definitions
