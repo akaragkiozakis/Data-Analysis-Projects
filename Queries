@@ -1,0 +1,3 @@
+-- Finding out the number of customers
+SELECT COUNT(DISTINCT CustomerID)
+FROM Sales.Customer;
